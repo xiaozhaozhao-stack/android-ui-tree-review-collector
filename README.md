@@ -2,6 +2,20 @@
 
 作者：赵文卓 / Zhao Wenzhuo
 
+## 支线数据仓库
+
+主库负责 Android UI Tree 公开评论采集方法、脚本和流程说明。
+
+- 公开评论数据包、TXT/JSON 清洗报告和有效语料统计：
+  [mengniu-public-comments-dataset](https://github.com/xiaozhaozhao-stack/mengniu-public-comments-dataset)
+
+- OCR 补丁库（针对特殊页面/不可直接抓取的评论文本）：
+  [android-ocr-review-collector-extension](https://github.com/xiaozhaozhao-stack/android-ocr-review-collector-extension)
+
+说明：
+
+主库负责采集工具，支线库负责展示数据包或提供 OCR 辅助方案。
+
 ## 项目宣传图
 
 <p align="center">
