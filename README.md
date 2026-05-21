@@ -10,7 +10,7 @@
   [mengniu-public-comments-dataset](https://github.com/xiaozhaozhao-stack/mengniu-public-comments-dataset)
 
 - OCR 补丁库（针对特殊页面/不可直接抓取的评论文本）：
-  [android-ocr-review-collector-extension](https://github.com/xiaozhaozhao-stack/android-ocr-review-collector-extension)
+  [android-ocr-review-collector-extension](https://github.com/xiaozhaozhao-stack/android-ocr-review-collector-extension-)
 
 说明：
 
