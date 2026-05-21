@@ -4,6 +4,12 @@
 
 一个原始实战版 Android UI Tree 公开评论采集脚本。它不是平台专用脚本，而是直接读取手机屏幕上已经可见的公开 UI 文本：只要某个 Android App 的评论文字能出现在 UI Tree 里，就可以尝试采集。
 
+## 使用流程图
+
+![Android UI 树评论收集器流程图 1.1](assets/1.1.png)
+
+![Android UI 树评论收集器流程图 1.2](assets/1.2.png)
+
 ## 一句话说明
 
 打开任意 Android App 的公开评论区，运行 `direct_collect.py`，脚本会自动点击“展开/查看更多”、自动滑动、过滤页面杂项，并把评论按一行一条保存到 `output/comments.txt`。
