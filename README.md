@@ -6,9 +6,9 @@
 
 ## 使用流程图
 
-![Android UI 树评论收集器流程图 1.1](assets/1.1.png)
+![使用流程图 1.1](assets/1.1.png)
 
-![Android UI 树评论收集器流程图 1.2](assets/1.2.png)
+![使用流程图 1.2](assets/1.2.png)
 
 ## 一句话说明
 
