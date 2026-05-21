@@ -2,13 +2,21 @@
 
 作者：赵文卓 / Zhao Wenzhuo
 
-![项目宣传图](宣传图.png)
+## 项目宣传图
+
+<p align="center">
+  <img src="宣传图.png" alt="项目宣传图" width="760">
+</p>
 
 ## 使用流程图
 
-![流程图 1.1](流程图1.1.png)
+<p align="center">
+  <img src="流程图1.1.png" alt="流程图1.1" width="760">
+</p>
 
-![流程图 1.2](流程图1.2.png)
+<p align="center">
+  <img src="流程图1.2.png" alt="流程图1.2" width="760">
+</p>
 
 打开任意 Android App 的公开评论区，运行 `direct_collect.py`，脚本会自动点击“展开/查看更多”、自动滑动、过滤页面杂项，并把评论按一行一条保存到 `output/comments.txt`。
 
