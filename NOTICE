@@ -1,0 +1,8 @@
+Android UI Tree Review Collector
+
+Author: Zhao Wenzhuo / 赵文卓
+
+This repository is a practical public review collector based on Android UI Tree. It reads visible public UI text from the currently opened phone screen, clicks expand buttons when available, scrolls the page, filters interface noise, and saves one review per line.
+
+This public package excludes private conversations, login credentials, local machine paths, full raw datasets, and non-public data collection methods.
+
